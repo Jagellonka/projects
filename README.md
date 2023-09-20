@@ -11,5 +11,5 @@ For job recruters.
 | [**Car price regression**](car_price_git.ipynb)   | Определить цену на автомобиль на вторичном рынке     | `pandas` `lightgbm` |
 | [**Insurance company**](matrix_to_code_git.ipynb)   | Закодировать данные клиентов так, чтобы их можно было использовать без вреда для машинного обучения, аналитическое решение линейной регрессии    | `pandas` `sklearn`   |
 | [**Semantic analysis**](text_ml_git.ipynb)   | Научить модель определять гневные комментарии, векторизация текстов   | `pandas` `sklearn` `ntlk` `catboost` `TfidfVectorizer`   |
-| [**Taxi demend**](time-series_git.ipynb)     | Разработка модели, которая определяет спрос на такси в различные часы дня | `pandas` `sklearn` `pipeline`|
+| [**Taxi demend**](time-series_git.ipynb)     | Разработка модели, которая определяет спрос на такси в различные часы дня | `pandas` `sklearn` `pipeline` `pyplot` `statsmodel` `lightgbm`|
 | [**Car price regression 2**](car_price_2_git.ipynb)     | Разработка модели, которая определяет стоимость автомобиля | `pandas` `sklearn` `optuna` `pipeline`  `lightgbm`|
