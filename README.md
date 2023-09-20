@@ -8,3 +8,7 @@ For job recruters.
 | [**Outflow of bank customers**](bank_clients_ml_git.ipynb)     | Разработка модели, которая определяет, уйдет ли в ближайшем времени клиент из банка      | `pandas` `sklearn`       |
 | [**Oil well search**](ml_regression_git.ipynb)     | Используя машинное обучение определить наиболее перспективные скважины для добычи нефти    | `pandas` `sklearn`       |
 | [**Statistical analysis of scooter rentals**](hypotheses_statistics_git.ipynb)    | Определить наиболее выгодных клиентов для сервиса самокатов, проверка гипотез       | `pandas` `scipy`     |
+| [**Car_price_regression**](car_price_git.ipynb)   | Определить цену на автомобиль на вторичном рынке     | `pandas` `plotly` `matplotlib`|
+| [**Insurance company**](matrix_to_code_git.ipynb)   | Закодировать данные клиентов так, чтобы их можно было использовать без вреда для машинного обучения, аналитическое решение линейной регрессии    | `pandas` `scipy` `plotly` `matplotlib`     |
+| [**semantic analysis**](text_ml_git.ipynb)   | Научить модель определять гневные комментарии, векторизация текстов   | `pandas` `sklearn`    |
+| [**Taxi demend**](time-series_git.ipynb)     | Разработка модели, которая определяет, спрос на такси в различные часы дня | `pandas` `sklearn`       |
